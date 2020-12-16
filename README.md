@@ -10,6 +10,17 @@
 - Trong file Makefile trong thư mục darknet :
   - Sửa GPU = 0 thành GPU = 1
   - Sửa OPENCV =0 thành OPENCV = 1
+## 3.Chạy chương trình
+# 
+# Chạy Front-end
+- cd vào thư mục front_end\app\src
+- npm install
+- npm start
+
+# Chạy Back-end
+- cd vào thư mục main.py
+- pip install -r requirements.txt
+- python main.py
 ## 3. Contributors
 - Doãn Xuân Khang https://github.com/khangdx1998
 - Đặng Phương Nam
